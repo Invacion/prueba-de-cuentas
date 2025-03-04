@@ -1,0 +1,14 @@
+[
+    {
+        "usuario": "Hola",
+        "contrase\u00f1a": "es una prueba"
+    },
+    {
+        "usuario": "Hola",
+        "contrase\u00f1a": " estoy probando"
+    },
+    {
+        "usuario": "Caracol123",
+        "contrase\u00f1a": "sapomonstruo"
+    }
+]
